@@ -14,8 +14,8 @@
   ],
   "crons": [
     {
-      "path": "/cronarpan",
-      "schedule": "10 0 * * *"
+      "path": "/crontest",
+      "schedule": "30 0 * * *"
     }
   ]
 }

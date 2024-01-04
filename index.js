@@ -10,7 +10,7 @@ app.get("/ping", (req, res) => {
   res.send("pong 🏓");
 });
 
-app.get("/cronarpan", (req, res) => {
+app.get("/crontest", (req, res) => {
   res.send("pong 🏓");
 });
 

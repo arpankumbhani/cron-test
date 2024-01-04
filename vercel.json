@@ -14,7 +14,7 @@
   ],
   "crons": [
     {
-      "path": "/src/cron",
+      "path": "/cronarpan",
       "schedule": "10 0 * * *"
     }
   ]

@@ -15,7 +15,7 @@
   "crons": [
     {
       "path": "/crontest",
-      "schedule": "5 19 * * *"
+      "schedule": "31 18 * * *"
     }
   ]
 }
